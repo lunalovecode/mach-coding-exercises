@@ -1,1 +1,1 @@
-# mach-coding-exercises
+# mach-python-exercises
